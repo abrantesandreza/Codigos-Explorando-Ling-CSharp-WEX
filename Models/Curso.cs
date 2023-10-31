@@ -32,7 +32,8 @@ namespace Codigos_Explorando_Ling_CSharp_WEX.Models
             
             for (int i = 1; i < Alunos.Count; i++)
             {
-                string texto = "Nº " + i + " - " + Alunos[i].NomeCompleto;
+                //string texto = "Nº " + i + " - " + Alunos[i].NomeCompleto;
+                string texto = $"Nº {i} - {Alunos[i].NomeCompleto}";
                 Console.WriteLine(texto);
             }
             
