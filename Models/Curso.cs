@@ -9,7 +9,7 @@ namespace Codigos_Explorando_Ling_CSharp_WEX.Models
     {
         public string Nome { get; set; }
         public List<Pessoa> Alunos { get; set; }
-        
+
         public void AdicionarAluno(Pessoa aluno) 
         {
             Alunos.Add(aluno);
@@ -28,11 +28,14 @@ namespace Codigos_Explorando_Ling_CSharp_WEX.Models
 
         public void ListarAlunos()
         {
-            Console.WriteLine("Os alunos matriculados são: ");
-            foreach(Pessoa aluno in Alunos)
+            Console.WriteLine($"Os alunos matriculados no curso de {Nome} são: ");
+            
+            for (int i = 1; i < Alunos.Count; i++)
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                string texto = "Nº " + i + " - " + Alunos[i].NomeCompleto;
+                Console.WriteLine(texto);
             }
+            
         }
 
     }
