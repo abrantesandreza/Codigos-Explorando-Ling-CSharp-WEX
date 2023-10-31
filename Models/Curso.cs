@@ -30,10 +30,10 @@ namespace Codigos_Explorando_Ling_CSharp_WEX.Models
         {
             Console.WriteLine($"Os alunos matriculados no curso de {Nome} são: ");
             
-            for (int i = 1; i < Alunos.Count; i++)
+            for (int i = 0; i < Alunos.Count; i++)
             {
                 //string texto = "Nº " + i + " - " + Alunos[i].NomeCompleto;
-                string texto = $"Nº {i} - {Alunos[i].NomeCompleto}";
+                string texto = $"Nº {i + 1} - {Alunos[i].NomeCompleto}";
                 Console.WriteLine(texto);
             }
             
