@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\bin\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.exe
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\bin\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.deps.json
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\bin\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.runtimeconfig.json
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\bin\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.dll
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\bin\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.pdb
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.AssemblyInfo.cs
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.dll
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\refint\Codigos-Explorando-Ling-CSharp-WEX.dll
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.pdb
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\Codigos-Explorando-Ling-CSharp-WEX.genruntimeconfig.cache
+C:\Users\andre\Desktop\Codigos-Explorando-Ling-CSharp-WEX\obj\Debug\net7.0\ref\Codigos-Explorando-Ling-CSharp-WEX.dll
