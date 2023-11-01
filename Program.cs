@@ -1,6 +1,11 @@
 ﻿using Codigos_Explorando_Ling_CSharp_WEX.Models;
+using System.Globalization;
+
 
 // formatando valores monetarios
+
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+
 decimal valorMonetario = 1546.40M;
 
 Console.WriteLine($"{valorMonetario:C}");
