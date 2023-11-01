@@ -4,11 +4,13 @@ using System.Globalization;
 
 // formatando valores monetarios
 
-CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
 decimal valorMonetario = 1546.40M;
 
 Console.WriteLine($"{valorMonetario:C}");
+// formatando para cultura/idioma especifico
+Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
 
 
 
