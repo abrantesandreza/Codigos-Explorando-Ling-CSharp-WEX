@@ -12,7 +12,16 @@ Console.WriteLine($"{valorMonetario:C}");
 // formatando para cultura/idioma especifico
 Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
 
+// outras formas de formatar um numero
+Console.WriteLine(valorMonetario.ToString("C2"));
 
+// Porcentagem
+double porcentagem = .3548;
+Console.WriteLine(porcentagem.ToString("P"));
+
+// Padrao de formatação personalizado
+int numero = 123456;
+Console.WriteLine(numero.ToString("##-##-##"));
 
 
 
